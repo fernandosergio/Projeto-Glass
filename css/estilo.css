@@ -226,6 +226,11 @@ aside#lateral {
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5)
 }
 
+.filme {
+    width: 350px;
+    height: 200px;
+}
+
 aside#lateral h1 {
     font-family: FonteLogo;
     font-size: 20pt;
